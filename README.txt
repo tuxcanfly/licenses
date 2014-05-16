@@ -6,5 +6,5 @@ I prefer liberal licenses for code.
 
 For non-code,
 1) CC BY
-2) CC BY NC
+2) CC BY-NC
 
